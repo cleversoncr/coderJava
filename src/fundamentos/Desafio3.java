@@ -1,4 +1,4 @@
-package fundamentos.operadores;
+package fundamentos;
 
 public class Desafio3 {
   public static void main(String[] args) {
@@ -17,13 +17,6 @@ public class Desafio3 {
 
   }
 }
-
-
-
-
-
-
-
 
 /*
 Trabalho na terça (V ou F)
